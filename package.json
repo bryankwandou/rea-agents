@@ -7,11 +7,11 @@
   "author": "Bryan Kwandou <nayrbryangaming01@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bryankwandou/rea.git"
+    "url": "git+https://github.com/bryankwandou/rea-agents.git"
   },
-  "homepage": "https://github.com/bryankwandou/rea#readme",
+  "homepage": "https://github.com/bryankwandou/rea-agents#readme",
   "bugs": {
-    "url": "https://github.com/bryankwandou/rea/issues"
+    "url": "https://github.com/bryankwandou/rea-agents/issues"
   },
   "keywords": [
     "reverse-engineering",
